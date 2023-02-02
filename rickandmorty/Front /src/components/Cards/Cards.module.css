@@ -1,0 +1,11 @@
+.container{
+    justify-content: space-around;
+    padding: 2rem;
+    margin: 3rem;
+    display:grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-column-gap: .5rem;
+    grid-row-gap: 2rem;
+    justify-items: center;
+}
+
